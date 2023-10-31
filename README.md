@@ -30,7 +30,7 @@ func main() {
 
 In this example, replace "password" with the password you want to check and "hash" with the hashed password you want to compare it to.
 
-##Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
